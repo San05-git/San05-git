@@ -8,14 +8,14 @@
 
 ### About Me
 
-I'm an Information Science Engineering student interested in software development, AI, data, and cloud technologies.
+I'm an Information Science Engineering student interested in software development, data, and cloud technologies.
 
 I enjoy learning by building things and understanding how technology works behind the scenes. Currently, I'm focusing on improving my programming, problem-solving, and core computer science fundamentals.
 
 ### Skills
 
-**Languages:** Java, Python, SQL
-**Database:** MySQL
+**Languages:** Java, Python, SQL  
+**Database:** MySQL  
 **Tools:** Git, GitHub, Docker, Jenkins
 
 ### Currently Learning
@@ -27,11 +27,11 @@ DSA • Operating Systems • Computer Networks • Cloud Computing • Docker �
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=San05-git&show_icons=true&hide_border=true&theme=transparent" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=San05-git&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
