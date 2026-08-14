@@ -39,7 +39,7 @@ DSA • Operating Systems • Computer Networks • Cloud Computing • Docker �
 ### Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/San05-git/San05-git/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 
 ---
